@@ -1,3 +1,3 @@
-# socket-programing-with-python
+# socket-programming-with-python
 
 lambda

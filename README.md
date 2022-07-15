@@ -1,4 +1,4 @@
-# Chat_client_server
+# Chat-client-server
 ## socket-programming-with-python
 
 ##  جلسه ی اول کاردستی با کد

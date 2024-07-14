@@ -1,12 +1,5 @@
-# Chat-client-server
-## socket-programming-with-python
+# Multi-Threaded-Chat-Client-and-Server
 
-##  جلسه ی اول کاردستی با کد
+A multi thread CLI program using python socket library and threading tehnique.
 
-در این جلسه سرور و کلاینت ساده ای را با استفاده از سوکت ها و پایتون ساختیم که به کلاینت ها اجازه ی چت با همدیگر را می دهد
-
-
-
-کاردستی با کد / حلقه ی لمبدا / دانشکده ی فیزیک / دانشگاه صنعتی شریف
-
-تابستان 1400
+Made for the webinar of lambda circle, physics department of sharif university of technology.
